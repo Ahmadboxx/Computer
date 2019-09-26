@@ -22,11 +22,20 @@ Output is also called as Result. We can save these results in the storage device
 
 4-mother board is a circuit board that is used to pass an electric current to other parts.
 
+
 5-Hard disk is aa disk that is fitted on the motherboard which can make a space to save your work.
+
 ![Ahmadboxx](https://camo.githubusercontent.com/a03eb17e793c102bc6504cb80da24fe4c4f34823/687474703a2f2f686f6d65776f726b2e756f7265676f6e2e6564752f7075622f636c6173732f3135352f486f77253230436f6d707574657273253230576f726b253230253542656e6379636c6f70656469612535445f66696c65732f4350552d6275732e676966)
+
 Some Interesting Facts About Computers & Its Operating Systems:
+
 The first digital computers were developed between 1940 to 1945.Konrad Zuse, In 1941 developed “Z3”,
+
 the first modern computing machine.Konrad Zuse is regarded as “the inventor of computers”.
+
 ENIAC (Electronic Numerical Integrator & Computer) was the first US-built electronic computer.
+
 ENIAC was developed by John Mauchly and J. Presper Eckert.
+
 The world’s first stored-program computer was “Manchester Baby” developed in 1948.
+
